@@ -1,4 +1,6 @@
-Introduction
+# ElectroHub Sales Dashboard 
+
+## Introduction
 
 This project is part of my internship work where I built an end-to-end Power BI dashboard for Electro Hub’s transactional data.
 
@@ -6,7 +8,7 @@ The goal was to transform raw sales, customer, product, and promotion data into 
 
 Using Power Query, DAX, and Power BI visuals, I created a set of interactive reports covering sales performance, profitability, promotions, and customer/order-level analytics.
 
-Business Problems
+## Business Problems
 
 The business team wanted answers to questions such as:
 
@@ -25,7 +27,7 @@ What are the average discounts by promotion type, and are they effective?
 How can we view order-level details (sales, discounts, profit) and filter them by customers, products, promotions, or dates?
 
 
-Using Power BI, the following features were designed:
+## Using Power BI, the following features were designed:
 
 Data Cleaning & Transformation-
 
@@ -52,7 +54,7 @@ Two-period comparison measures using CALCULATE, ALL, USERELATIONSHIP.
 SumDim measure to enable cross-filtering between slicers.
 
 
-Dashboards & Requirements Fulfilled:
+## Dashboards & Requirements Fulfilled:
 
 KPI Overview → Sales, Profit, Orders, Avg Discount.
 
@@ -67,7 +69,7 @@ Order-level Table → Complete order details with slicer filters.
 Interactive Slicers → Cross-filtering enabled for Date, Customer, Product, Promotion.
 
 
-Business Value Delivered:
+## Business Value Delivered:
 
 Identified top- and bottom-performing products to guide promotions and stock decisions.
 
@@ -80,7 +82,7 @@ Provided transaction-level visibility for audits and customer service.
 Enabled trend analysis for seasonal and festival-driven demand.
 
 
-Tech & Skills Used:
+## Tech & Skills Used:
 
 Power BI Desktop – Data modeling, DAX, visualization.
 
@@ -93,12 +95,12 @@ Data Analysis & Business Intelligence
 Problem Solving & Insight Generation
 
 
-Conclusion
+## Conclusion
 
 This dashboard helps ElectroHub management to monitor performance in real-time, understand customer behavior, and optimize promotions and sales strategy.
 
 
-This repository includes:
+## This repository includes:
 
 Project Report
 
